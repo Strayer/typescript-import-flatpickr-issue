@@ -1,3 +1,5 @@
+Example project for https://stackoverflow.com/questions/53885107/typescript-cant-find-module-flatpickr-even-though-it-includes-typescript-types
+
 Run `yarn run tsc --project .` to replicate the issue.
 
 ```
